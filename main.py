@@ -37,7 +37,7 @@ def new_origins():
 def print_user_info():
     print(f"Compare A : {user_A['name']}, a {user_A['description']}, from {user_A['country']}.")
     print(art.vs)
-    print(f"Compare B : {user_B['name']}, a {user_B['description']}, from {user_B['country']}.")
+    print(f"Against B : {user_B['name']}, a {user_B['description']}, from {user_B['country']}.")
 
 def follower_check():
     
